@@ -1,8 +1,8 @@
-![Hummingbot](https://i.ibb.co/X5zNkKw/blacklogo-with-text.png)
+![h_trading.bot](https://i.ibb.co/X5zNkKw/blacklogo-with-text.png)
 
 ----
-[![License](https://img.shields.io/badge/License-Apache%202.0-informational.svg)](https://github.com/hummingbot/hummingbot/blob/master/LICENSE)
-[![Twitter](https://img.shields.io/twitter/url?url=https://twitter.com/_hummingbot?style=social&label=_hummingbot)](https://twitter.com/_hummingbot)
+[![License](https://img.shields.io/badge/License-Apache%202.0-informational.svg)](https://github.com/h_trading.bot/h_trading.bot/blob/master/LICENSE)
+[![Twitter](https://img.shields.io/twitter/url?url=https://twitter.com/_hummingbot?style=social&label=h_trading.bot)](https://twitter.com/_hummingbot)
 [![Youtube](https://img.shields.io/youtube/channel/subscribers/UCxzzdEnDRbylLMWmaMjywOA)](https://www.youtube.com/@hummingbot)
 [![Discord](https://img.shields.io/discord/530578568154054663?logo=discord&logoColor=white&style=flat-square)](https://discord.gg/hummingbot)
 
